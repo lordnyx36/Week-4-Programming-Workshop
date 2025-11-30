@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This is the project README file. Here, In this project you can see the work of mine Week-4 Programming qorkshop
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Workshop-4
+PURPOSE OF PROJECT: Learning and Submitting
+VERSION or DATE: 30/11/2025
+AUTHORS: Karan Khatiwada C6
+
+
